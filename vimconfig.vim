@@ -4,3 +4,4 @@ syntax on
 set autoindent
 set hlsearch
 
+map <F2> :NERDTree<CR>
