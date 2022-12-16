@@ -1,6 +1,7 @@
 set nu
 set autoindent
 set hlsearch
+set relativenumber
 
 map <F2> :NERDTree<CR>
 
