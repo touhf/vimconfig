@@ -34,6 +34,9 @@ Plugin 'vim-scripts/indentpython.vim'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-syntastic/syntastic'
 Bundle  'Lokaltog/powerline', {'rtp':'powerline/bindings/vim/'}
+Plugin 'sheerun/vim-polyglot'
+Plugin 'mattn/emmet-vim'
+Plugin 'https://github.com/tpope/vim-fugitive'
 " ---------------------------
 call vundle#end()
 filetype plugin indent on
